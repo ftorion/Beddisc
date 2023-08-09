@@ -1,0 +1,51 @@
+{
+    "settings": {
+        "tabs": [
+            {
+                "name": "#чат-сексшопа",
+                "url": "/channels/874423592820023367/874439988849307698",
+                "selected": false,
+                "currentStatus": "none",
+                "iconUrl": "https://cdn.discordapp.com/icons/874423592820023367/ce8eeadb514abea636d8094992208d69.webp?size=28",
+                "channelId": "874439988849307698"
+            },
+            {
+                "name": "#📢Кабинет Добрыни А.",
+                "url": "/channels/1065241234676908123/1065313736681869403",
+                "selected": true,
+                "currentStatus": "none",
+                "iconUrl": "https://cdn.discordapp.com/icons/1065241234676908123/0bcae1ff61617c4eca476ec2ccf2405e.webp?size=28",
+                "channelId": "1065313736681869403"
+            }
+        ],
+        "favs": [],
+        "favGroups": [],
+        "showTabBar": true,
+        "showFavBar": true,
+        "reopenLastChannel": false,
+        "showFavUnreadBadges": true,
+        "showFavMentionBadges": true,
+        "showFavTypingBadge": true,
+        "showEmptyFavBadges": false,
+        "showTabUnreadBadges": true,
+        "showTabMentionBadges": true,
+        "showTabTypingBadge": true,
+        "showEmptyTabBadges": false,
+        "showActiveTabUnreadBadges": false,
+        "showActiveTabMentionBadges": false,
+        "showActiveTabTypingBadge": false,
+        "showEmptyActiveTabBadges": false,
+        "compactStyle": false,
+        "privacyMode": false,
+        "radialStatusMode": false,
+        "tabWidthMin": 100,
+        "showFavGroupUnreadBadges": true,
+        "showFavGroupMentionBadges": true,
+        "showFavGroupTypingBadge": true,
+        "showEmptyFavGroupBadges": false,
+        "showQuickSettings": true,
+        "showNavButtons": true,
+        "alwaysFocusNewTabs": false,
+        "useStandardNav": true
+    }
+}
